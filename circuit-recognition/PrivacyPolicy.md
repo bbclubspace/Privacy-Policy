@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 15 April 2025_
+_Last updated: 23 April 2025_
 
 BBCLUB built the **Circuit Recognition** app as a **Free** app. This SERVICE is provided by BBCLUB at no cost and is intended for use as is.
 
@@ -29,4 +29,8 @@ We may update our Privacy Policy from time to time.
 ## Contact Us
 If you have any questions or suggestions, feel free to contact us at:
 
+<<<<<<< HEAD
 **info@bbclub.space**
+=======
+**kulupbb@gmail.com**
+>>>>>>> ab3fbeedeef9c9c0034491db3b4452e234c3f3c4
