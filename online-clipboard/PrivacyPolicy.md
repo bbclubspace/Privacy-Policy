@@ -2,10 +2,10 @@
 
 _Last updated: 15 April 2025_
 
-BBCLUB built the **Circuit Recognition** app as a **Free** app. This SERVICE is provided by BBCLUB at no cost and is intended for use as is.
+BBCLUB built the **Online Clipboard** app as a **Free** app. This SERVICE is provided by BBCLUB at no cost and is intended for use as is.
 
 ## Information Collection and Use
-Circuit Recognition does **not** collect any personal information directly.
+Online Clipboard does **not** collect any personal information directly.
 
 However, third-party services such as:
 - Google Play Services
