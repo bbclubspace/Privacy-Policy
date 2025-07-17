@@ -28,9 +28,5 @@ We may update our Privacy Policy from time to time.
 
 ## Contact Us
 If you have any questions or suggestions, feel free to contact us at:
-
-<<<<<<< HEAD
 **info@bbclub.space**
-=======
-**kulupbb@gmail.com**
->>>>>>> ab3fbeedeef9c9c0034491db3b4452e234c3f3c4
+
